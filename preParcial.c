@@ -1,6 +1,6 @@
-#include <stdio.h>         //Ejercicio Integrador 5 LC1
-#include <stdlib.h>        //Alumno: Santiago Beron comision 3
-#define TAM 5              //Turno: Noche//xd
+#include <stdio.h>         
+#include <stdlib.h>        
+#define TAM 5              
 
 struct pedido
 {
